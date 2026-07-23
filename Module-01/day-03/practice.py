@@ -30,6 +30,7 @@ def read_transactions(file_path):
     return transactions
 
 
+######## PRACICE EXERCISES ####
 
 
 
