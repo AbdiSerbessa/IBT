@@ -1,0 +1,6 @@
+Paracetamol,35
+Amoxicillin,12
+Ibuprofen,12
+Metformin,3
+Vitamin C,100
+Insulin,15
